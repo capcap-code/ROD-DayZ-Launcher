@@ -1,0 +1,26 @@
+C:\Users\ADMIN\source\repos\WinFormsApp1\WinFormsApp1\bin\Release\net6.0-windows\ROD Luncher.exe
+C:\Users\ADMIN\source\repos\WinFormsApp1\WinFormsApp1\bin\Release\net6.0-windows\ROD Luncher.deps.json
+C:\Users\ADMIN\source\repos\WinFormsApp1\WinFormsApp1\bin\Release\net6.0-windows\ROD Luncher.runtimeconfig.json
+C:\Users\ADMIN\source\repos\WinFormsApp1\WinFormsApp1\bin\Release\net6.0-windows\ROD Luncher.dll
+C:\Users\ADMIN\source\repos\WinFormsApp1\WinFormsApp1\bin\Release\net6.0-windows\ROD Luncher.pdb
+C:\Users\ADMIN\source\repos\WinFormsApp1\WinFormsApp1\bin\Release\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\ADMIN\source\repos\WinFormsApp1\WinFormsApp1\bin\Release\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\ADMIN\source\repos\WinFormsApp1\WinFormsApp1\bin\Release\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\ADMIN\source\repos\WinFormsApp1\WinFormsApp1\bin\Release\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\ADMIN\source\repos\WinFormsApp1\WinFormsApp1\bin\Release\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ADMIN\source\repos\WinFormsApp1\WinFormsApp1\bin\Release\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ADMIN\source\repos\WinFormsApp1\WinFormsApp1\obj\Release\net6.0-windows\ROD Luncher.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\WinFormsApp1\WinFormsApp1\obj\Release\net6.0-windows\WinFormsApp1.Luncher.resources
+C:\Users\ADMIN\source\repos\WinFormsApp1\WinFormsApp1\obj\Release\net6.0-windows\ROD_Luncher.Form2.resources
+C:\Users\ADMIN\source\repos\WinFormsApp1\WinFormsApp1\obj\Release\net6.0-windows\ROD_Luncher.Properties.Resources.resources
+C:\Users\ADMIN\source\repos\WinFormsApp1\WinFormsApp1\obj\Release\net6.0-windows\ROD Luncher.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\repos\WinFormsApp1\WinFormsApp1\obj\Release\net6.0-windows\ROD Luncher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\WinFormsApp1\WinFormsApp1\obj\Release\net6.0-windows\ROD Luncher.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\WinFormsApp1\WinFormsApp1\obj\Release\net6.0-windows\ROD Luncher.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\WinFormsApp1\WinFormsApp1\obj\Release\net6.0-windows\ROD Luncher.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\WinFormsApp1\WinFormsApp1\obj\Release\net6.0-windows\ROD Luncher.csproj.CopyComplete
+C:\Users\ADMIN\source\repos\WinFormsApp1\WinFormsApp1\obj\Release\net6.0-windows\ROD Luncher.dll
+C:\Users\ADMIN\source\repos\WinFormsApp1\WinFormsApp1\obj\Release\net6.0-windows\refint\ROD Luncher.dll
+C:\Users\ADMIN\source\repos\WinFormsApp1\WinFormsApp1\obj\Release\net6.0-windows\ROD Luncher.pdb
+C:\Users\ADMIN\source\repos\WinFormsApp1\WinFormsApp1\obj\Release\net6.0-windows\ROD Luncher.genruntimeconfig.cache
+C:\Users\ADMIN\source\repos\WinFormsApp1\WinFormsApp1\obj\Release\net6.0-windows\ref\ROD Luncher.dll

@@ -1,0 +1,11 @@
+C:\Users\ADMIN\Desktop\luncherv2\ROD Luncher.exe
+C:\Users\ADMIN\Desktop\luncherv2\ROD Luncher.dll
+C:\Users\ADMIN\Desktop\luncherv2\ROD Luncher.deps.json
+C:\Users\ADMIN\Desktop\luncherv2\ROD Luncher.runtimeconfig.json
+C:\Users\ADMIN\Desktop\luncherv2\ROD Luncher.pdb
+C:\Users\ADMIN\Desktop\luncherv2\System.Data.SqlClient.dll
+C:\Users\ADMIN\Desktop\luncherv2\runtimes\win-arm64\native\sni.dll
+C:\Users\ADMIN\Desktop\luncherv2\runtimes\win-x64\native\sni.dll
+C:\Users\ADMIN\Desktop\luncherv2\runtimes\win-x86\native\sni.dll
+C:\Users\ADMIN\Desktop\luncherv2\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ADMIN\Desktop\luncherv2\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
