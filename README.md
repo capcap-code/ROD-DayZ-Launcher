@@ -1,7 +1,7 @@
 # ROD-DayZ-Launcher
 for ROD server only
 - Include:
-Launche game from .bat file
+Launch game from .bat file
 Auto update
 Rename - Check whitelist
 
